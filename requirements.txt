@@ -3,3 +3,9 @@ python-dotenv
 pillow
 openai
 tqdm
+torch
+transformers
+peft
+bitsandbytes
+trl
+datasets
